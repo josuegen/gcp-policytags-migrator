@@ -1,0 +1,2 @@
+google-cloud-datacatalog==3.25.1
+google-cloud-bigquery==3.30.0
